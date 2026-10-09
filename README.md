@@ -4,7 +4,7 @@
 
 **Promptora AI** is a Python-based application designed to explore and experiment with different prompt engineering techniques using Generative AI.
 
-The application allows users to enter a task, select a prompting technique, customize generation settings, and receive an AI-generated response through the Google Gemini API.
+The application allows users to enter a task, select a prompting technique, customize generation settings, and receive an AI-generated response through an interactive Streamlit interface.
 
 Instead of using the same prompt structure for every task, Promptora AI demonstrates how different prompting strategies can guide an AI model to produce responses in different ways.To run Promptora AI on your computer, follow the installation instructions and start the Streamlit application.
 
