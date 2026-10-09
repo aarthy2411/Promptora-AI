@@ -95,7 +95,7 @@ python -m pip install -r requirements.txt
 
 Create a `.env` file in the project root directory and add:
 
-**Security reminder:** Never commit your real API key to GitHub. Add `.env` to your `.gitignore` file.
+**Security reminder:** Never commit your real API key publicaly. 
 
 ### 5. Run the Application
 
